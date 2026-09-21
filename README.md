@@ -6,6 +6,8 @@ This project provides library and associated python-module to compute pocket ope
 
 Written by _Dan Heeks_ <danheeks@gmail.com>, derived from the [kbool](http://boolean.klaasholwerda.nl/bool.html) library written by _Klaas Holwerda_
 
+Minor build changes by <aapo.lankinen@gmail.com> for modern cmake, python3, and newer libboost to enable deprecated boost functionality.  Also version bump to 0.3.0 to make FreeCAD happy; this library is needed for building FreeCAD.
+
 Here is some tool-path created with [Pocket](Pocket.md) ( Displayed using [HeeksCNC](https://github.com/Heeks/heekscnc) ).
 
 ## Installation ##
