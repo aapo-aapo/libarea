@@ -2,6 +2,8 @@
 // Copyright 2011, Dan Heeks
 // This program is released under the BSD license. See the file COPYING for details.
 
+#define BOOST_TIMER_ENABLE_DEPRECATED 1
+
 #include "PythonStuff.h"
 
 #include "Area.h"
